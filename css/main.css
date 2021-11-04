@@ -1,3 +1,4 @@
+
 .navigation {
     display: grid;
     grid-template-columns: repeat(5, auto);
@@ -84,3 +85,89 @@
 .spaceText {
     margin-top: 25px;
 }
+
+
+
+ /************ INICIO DE SECCION 3 - PIERINA ************/
+ .section-3 {
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+ }
+
+ .section-3 .info-container {
+    width: 290px;
+    margin-right: 50px;
+ }
+
+ .section-3 .info-container span {
+    font-weight: bolder;
+    font-size: 8px;
+ }
+
+ .section-3 .info-container h2 {
+    margin-top: 0px;
+    font-size: 20px;
+ }
+
+ .section-3 .info-container p {
+    margin-top: 0px;
+    line-height: 17px;
+    font-size: 12px;
+    font-weight: 500;
+ }
+
+ .section-3 .info-container iframe {
+    margin-top: 0px;
+}
+
+ /************ TERMINO DE SECCION 3 - PIERINA ************/
+
+
+ .secondSection{
+     height: 90vh;
+     width: 100%;
+     background-image: linear-gradient(#76278F, #2B1E66);
+     
+     display: flex;
+     flex-direction: row;
+     padding-top: 10%;
+     padding-right: 0;
+ }
+
+ #textInfo {
+    font-family: 'Montserrat', sans-serif;
+     flex: 35;
+     color: white;
+     padding-left: 10%;
+     width: 50px;
+ }
+
+ #phonePhoto{
+     flex: 35;
+
+ }
+
+ #phonePhoto img{
+    width: 500px;
+}
+.infos{
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 60px;
+}
+
+.infoTitle{
+    margin: 0;
+}
+
+.infoText{
+    line-height: 5px;
+    width: 500px;
+}
+
+#info3 .infoText{
+    line-height: 20px;
+}
+
+
