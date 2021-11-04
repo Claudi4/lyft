@@ -1,3 +1,39 @@
-/*
- * Estilos de tu proyecto
- */
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+.footer{
+
+    background: linear-gradient(#76278F, #2B1E66);
+}
+
+.fotter{
+    display: flex;
+    
+}
+
+.column {
+    display: flex;
+    padding: 30px;
+    
+}
+
+.ul_login .ulpartner{
+    list-style: none;
+}
+
+.icon{
+    display: table-footer-group;
+    
+}
+
+.icon .apple .google .microsoft{
+    width: 100px; height: 100px;
+}
+
+
+
+
+
