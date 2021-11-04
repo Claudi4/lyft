@@ -1,3 +1,50 @@
 /*
  * Estilos de tu proyecto
  */
+
+ /* style container June */
+ body {
+    font-family: 'Montserrat', sans-serif;
+
+ }
+ .containerJune {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-template-rows: 1fr;
+    height: 500px;
+ }
+
+ .containerVideo iframe{
+    background: white;
+    width: 100%;
+    height: 100%;
+ }
+
+ .containerText {
+    background: white;
+    padding: 15px 70px;
+ }
+
+ .title {
+    line-height: 0px; 
+ }
+
+ .title h2 {
+    font-size: 30px;
+    font-weight: bolder;
+ }
+
+ .containerText p{
+    line-height: 25px; 
+    font-weight: 500;
+ }
+
+ /* Amplify */
+
+.containerAmplify {
+   display: grid;
+   grid-template-columns: 1fr 2fr;
+   grid-template-rows: 1fr;
+   height: 500px;
+}
+
