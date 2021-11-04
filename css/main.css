@@ -1,3 +1,39 @@
 /*
  * Estilos de tu proyecto
  */
+
+ /************ INICIO DE SECCION 3 - PIERINA ************/
+ .section-3 {
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+ }
+
+ .section-3 .info-container {
+    width: 290px;
+    margin-right: 50px;
+ }
+
+ .section-3 .info-container span {
+    font-weight: bolder;
+    font-size: 8px;
+ }
+
+ .section-3 .info-container h2 {
+    margin-top: 0px;
+    font-size: 20px;
+ }
+
+ .section-3 .info-container p {
+    margin-top: 0px;
+    line-height: 17px;
+    font-size: 12px;
+    font-weight: 500;
+ }
+
+ .section-3 .info-container iframe {
+    margin-top: 0px;
+}
+
+ /************ TERMINO DE SECCION 3 - PIERINA ************/
